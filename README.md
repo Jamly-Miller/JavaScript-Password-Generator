@@ -60,6 +60,8 @@ VS Code : https://code.visualstudio.com/download
 
 * VS Code (Visual Studio Code is a streamlined code editor with support for development operations)
 
+* JavaScript (JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification.)
+
 
 ## Testes
 
@@ -68,9 +70,11 @@ Test application by opening ``` index.html ``` with default browser.
 
 ## Finished Product
 
-GitHub Page: https://jamly-miller.github.io/JavaScript-Password-Generator/
+GitHub Page : https://jamly-miller.github.io/JavaScript-Password-Generator/
 
-![ScreenShot](./assets/images/)
+ScreenShot :
+
+![ScreenShot](./assets/images/screenshot.jpg)
 
 
 ## Questions
